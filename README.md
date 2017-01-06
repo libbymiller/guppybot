@@ -2,10 +2,10 @@
 
 install
    
-   gem install cinch
+    gem install cinch
 
 usage:
 
-   touch users.txt
-   nohup ruby guppybot.rb &   
+    touch users.txt
+    nohup ruby guppybot.rb &   
 
